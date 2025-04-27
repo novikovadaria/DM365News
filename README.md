@@ -1,5 +1,4 @@
-# Тестовое задание на позицию Junior Developer (.NET Core / Vue.js)
-
+# Тестовое задание на позицию .NET Core / Vue.js Developer 
 На основании страницы - https://datamanagement365.com/blog/news/ создать сервис получения информации о новостях
 компании используя .NET Core. 
 
@@ -12,7 +11,7 @@
 сервис для отображения списка новостей, с возможностью
 поиска.
 
-# Test task for the position of Junior Developer (.NET Core / Vue.js)
+# Test task for the position of .NET Core / Vue.js Developer 
 
 Based on the page - https://datamanagement365.com/blog/news/ create a service for receiving information about company news using .NET Core.
 
